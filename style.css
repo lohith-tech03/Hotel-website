@@ -445,3 +445,23 @@ footer p{
         text-align:center;
     }
 }
+.hotel-info,
+.about-seo,
+.room-info,
+.gallery-info,
+.booking-info {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    line-height: 1.8;
+}
+
+.hotel-info h2,
+.about-seo h2,
+.room-info h2,
+.gallery-info h2,
+.booking-info h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
